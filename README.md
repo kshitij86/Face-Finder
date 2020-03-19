@@ -13,5 +13,5 @@ with the proper labelled folder in ```known_faces```
 ## Screenshots
 
 ![](screenshots/single_person.png)
-</br>
+<br/>
 ![](screenshots/multiple_people.png)
