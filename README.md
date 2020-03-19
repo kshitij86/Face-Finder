@@ -8,7 +8,7 @@
 4. Run ```recognize.py```
 
 It can find faces in images with quite accurately, but labelling them can done only if at least one image exists
-with the proper label in ~~~./known_faces~~~
+with the proper label in ```known_faces```
 
 ## Screenshots
 
