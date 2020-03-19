@@ -1,6 +1,6 @@
 # Face Finder
 
-Finds faces in images.
+#### Finds faces in images.
 
 1. Clone the repo and remove the default images, if you wish to use your own
 2. Place your images (must contain a single face) in ```known_faces``` with the correct label
