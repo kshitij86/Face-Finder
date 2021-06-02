@@ -129,7 +129,7 @@ typing-extensions==3.7.4.1
 ubuntu-drivers-common==0.0.0
 ufw==0.35
 unattended-upgrades==0.1
-urllib3==1.25.8
+urllib3==1.26.5
 usb-creator==0.3.3
 virtualenv==20.0.10
 virtualenv-clone==0.5.3
